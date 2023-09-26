@@ -8,7 +8,7 @@ La libreria a enocontar contiene:
 # Librerias
 libreria cuantico.py.
 libreria lib2matrces.py.
-libreria test_cuantic.py contiene dos pruebas por función.
+libreria test_cuantic.py.
 # Nota
 Para la ejecución del programa se debe tener intalado la libreria numpy al igual que matplotlib.
 Para ejecutar este programa, importaremos previamente las librerias que hemos creado para operaciones de vectores y matrices. Estas librerias son esenciales para el funcionamiento del programa y nos permitirán realizar cálculos vectoriales de manera eficiente. 
